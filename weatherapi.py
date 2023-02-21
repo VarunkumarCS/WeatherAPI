@@ -16,7 +16,7 @@ class Town:
         parmateres = {'APPID': '#YOUR OWN API ID', 'q': 'Piscataway,NJ,US'}
         r = requests.get(url, params= parmateres)
 
-        #PRinting the data for Piscataway, New Jersey
+        #Printing the data for Piscataway, New Jersey
         print("The Requested data via API of Piscataway, NJ is: ")
         dataobj = r.json()
         time.sleep(1)
