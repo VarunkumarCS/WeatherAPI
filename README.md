@@ -10,8 +10,8 @@ b) Pulling all the attributes from the API data.
 
 c) Parsing the Data
 
-- Print the Town/ city Name
-- Printing the Temperature
-- Printing the Visibility
+- Print the Town/ city Name.
+- Printing the Temperature.
+- Printing the Visibility.
 
 I've used (Requests, JSON, PPRINT, JSON Decode Error, Time) packages in the Python script.
